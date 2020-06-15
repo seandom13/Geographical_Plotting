@@ -5,3 +5,9 @@ The first map I create is a Choropleth Map that visualizes the amount of power c
 world in 2014. The map shows that the United States and China are the power consumption leaders of the world. 
 The second map I create is Choropleth Map that visualizes the population of eligible voters from each state in
 the United States.
+
+These are links to a website showing interactive plots:
+
+file:///C:/Users/seand/Desktop/Projects/Geographical_Plotting/power_consumption.html
+
+file:///C:/Users/seand/Desktop/Projects/Geographical_Plotting/voting_age_population.html
